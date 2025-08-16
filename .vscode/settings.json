@@ -2,6 +2,7 @@
     "cSpell.words": [
         "aktualisierte",
         "aktuelle",
+        "aktuellen",
         "Alles",
         "Analysetool",
         "Anwendung",
@@ -16,6 +17,7 @@
         "bollinger",
         "Börsenchart",
         "chrono",
+        "dass",
         "Datei",
         "Datenmodell",
         "eframe",
@@ -40,7 +42,10 @@
         "itertools",
         "jetzt",
         "Komponenten",
+        "Konfiguriere",
+        "konfigurieren",
         "macd",
+        "mehr",
         "Modernes",
         "Modernisierte",
         "neues",
@@ -51,8 +56,10 @@
         "präzise",
         "Projekt",
         "Projektstruktur",
+        "rendern",
         "serde",
         "sich",
+        "Sicherstellen",
         "Skript",
         "sollte",
         "Starte",
@@ -65,8 +72,11 @@
         "tlsv",
         "Überprüfe",
         "usize",
+        "validieren",
         "Verbesserte",
         "verbessertem",
-        "Verbessertes"
+        "Verbessertes",
+        "Versionen",
+        "Verzeichnis"
     ]
 }
