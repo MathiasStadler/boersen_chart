@@ -4,7 +4,7 @@ use anyhow::Result;
 mod data;
 mod indicators;
 mod ui;
-mod utils;
+// mod utils;
 
 fn main() -> Result<()> {
     let options = NativeOptions {

@@ -36,8 +36,17 @@ EOF
 
 # 3. Projektstruktur erstellen
 echo "📂 Erstelle erweiterte Projektstruktur..."
-mkdir -p src/{data,indicators,ui,utils}
-touch src/{main.rs,lib.rs}
+#org
+# mkdir -p src/{data,indicators,ui,utils}
+mkdir -p src/data
+mkdir -p src/indicators
+mkdir -p src/ui
+mkdir -p src/utils
+
+# touch src/{main.rs,lib.rs}
+touch src/main.rs
+touch src/lib.rs
+
 
 # 4. Hauptmodul mit Error-Handling
 echo "📝 Erstelle main.rs mit verbessertem Error-Handling..."
