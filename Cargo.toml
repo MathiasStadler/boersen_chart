@@ -1,0 +1,21 @@
+[package]
+name = "boersen_chart"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+egui = "0.27"
+egui_plot = "0.27"
+csv = "1.3"
+serde = { version = "1.0", features = ["derive"] }
+chrono = { version = "0.4", features = ["serde"] }
+thiserror = "1.0"
+itertools = "0.12"
+rand = "0.8"
+rust_decimal = "1.35"  # Für präzise Finanzberechnungen
+anyhow = "1.0"         # Für bessere Fehlerbehandlung
+
+[dev-dependencies]
+assert_approx_eq = "1.1"
+test-case = "3.3"      # Für bessere Testorganisation
