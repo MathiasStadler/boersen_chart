@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Sicherstellen, dass wir im Home-Verzeichnis starten
-cd ~ || exit
+# cd /tmp || exit
 
 # 1. Projekt erstellen
 echo "🚀 Erstelle neues Cargo-Projekt..."
